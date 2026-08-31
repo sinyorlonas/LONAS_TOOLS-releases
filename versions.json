@@ -1,0 +1,40 @@
+{
+    "channel":  "stable",
+    "versions":  [
+                     {
+                         "tag":  "1.087",
+                         "name":  "LONAS_TOOLS 1.087",
+                         "build":  "1.087",
+                         "published":  "2026-08-31",
+                         "url":  "https://github.com/sinyorlonas/LONAS_TOOLS-releases/releases/download/1.087/LONAS_TOOLS_1.087.zip"
+                     },
+                     {
+                         "tag":  "1.086",
+                         "name":  "LONAS_TOOLS 1.086",
+                         "build":  "2026-08-27-1.086",
+                         "published":  "2026-08-27",
+                         "url":  "https://github.com/sinyorlonas/LONAS_TOOLS-releases/releases/download/1.086/LONAS_TOOLS_1.086.zip"
+                     },
+                     {
+                         "tag":  "1.085",
+                         "name":  "LONAS_TOOLS 1.085",
+                         "build":  "1.085",
+                         "published":  "2026-08-26",
+                         "url":  "https://github.com/sinyorlonas/LONAS_TOOLS-releases/releases/download/1.085/LONAS_TOOLS_1.085.zip"
+                     },
+                     {
+                         "tag":  "1.011",
+                         "name":  "LONAS_TOOLS 1.011",
+                         "build":  "1.011",
+                         "published":  "2026-08-17",
+                         "url":  "https://github.com/sinyorlonas/LONAS_TOOLS-releases/releases/download/1.011/LONAS_TOOLS_1.011.zip"
+                     },
+                     {
+                         "tag":  "v1",
+                         "name":  "LONAS_TOOLS v1",
+                         "build":  "2026-08-17-v1",
+                         "published":  "2026-08-17",
+                         "url":  "https://github.com/sinyorlonas/LONAS_TOOLS-releases/releases/download/v1/LONAS_TOOLS_v1.zip"
+                     }
+                 ]
+}
